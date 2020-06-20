@@ -15,4 +15,4 @@ https://carolinacez.github.io/java-challenge/
 ![Password-Generator-Layout](./jschallenge.png)
 
 ## Contribution
-Collaborated on this challenge with: Allie Watkins, Joseph Klein, Alex Costan (TA), Josh Hall, and Shaun Mardones.
+Carolina Cabrera collaborated on this challenge with: Allie Watkins, Joseph Klein, Alex Costan (TA), Josh Hall, and Shaun Mardones.
